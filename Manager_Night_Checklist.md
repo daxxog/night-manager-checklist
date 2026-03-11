@@ -1,4 +1,4 @@
-# Manager - Night Shift Checklist
+# Night Shift Manager Checklist
 
 ## Shift Change
 - [ ] Plan - Daily Schedule & Deployment Guide
