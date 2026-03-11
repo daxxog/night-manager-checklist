@@ -87,3 +87,10 @@
 
 - [ ] Manager followup of checklist
 - [ ] Back door firmly closed
+
+
+---
+
+**The light shines in the darkness, and the darkness hasn’t _overcome_ it.**
+
+_The word translated “overcome” (G2638) can also be translated “comprehended.” It refers to getting a grip on an enemy to defeat him._
