@@ -21,7 +21,6 @@
 ---
 
 ## Dinner Post Rush / Pre-Close Plan
-- [ ] Plan - Daily Schedule & Deployment Guide
 - [ ] Cook 'n Hold - pre-heat as applicable
 - [ ] Freezer / Cooler - product off floors, wrapped & dated accurate beef supply
 - [ ] Team Closing Checklists follow-up
